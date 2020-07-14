@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I am a ctfer 🍓
+subtitle: I am ctfer 🍓
 ---
 
 Một cậu nhóc đang trên con đường lĩnh hội tri thức nhân loại.

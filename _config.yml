@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "nohopevc@gmail.com"
-  facebook: nohopevc
+  facebook: huysmithz
   github: nohopevc
-  twitter: nohopevc
+  #twitter: nohopevc
   #rss: true
   reddit: nohopevc
 #  linkedin: daattali
